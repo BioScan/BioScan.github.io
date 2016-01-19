@@ -1,0 +1,113 @@
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+@import url(https://fonts.googleapis.com/css?family=Lilita+One);
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+.container {
+  text-align: center;
+}
+img {
+  border: 1px solid black;
+  margin-top: 90px;
+  margin-bottom: 20px;
+  width: 200px;
+  height: auto;
+  text-align: center;
+}
+.validation {
+  background-color: red;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.validation i {
+  display: inline-block;
+  color: white;
+  font-size: 50px;
+  margin-right: 50px;
+  vertical-align: middle;
+}
+.validation h1 {
+  display: inline-block;
+  color: white;
+  vertical-align: middle;
+  margin: auto;
+  font-size: 30px;
+}
+.description {
+  text-align: center;
+  margin: auto;
+  width: 350px;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.description input {
+  color: #5FE52C;
+  font-size: 20px;
+  background-color: black;
+  border: 1px solid #5FE52C;
+  padding:10px;
+}
+
+header {
+  width: 100%;
+  text-align: center;
+  line-height: 50px;
+  background-color: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #5FE52C;
+}
+header img {
+  height: 50px;
+  width: auto;
+  display: inline-block;
+  vertical-align: middle;
+  margin: auto;
+  position:absolute;
+  top:10px;
+  left: 10px;
+
+}
+header h1{
+    padding-top:20px;
+    display: inline-block;
+    margin: auto;
+    font-size: 40px;
+    display: inline-flex;
+    vertical-align: baseline;
+
+
+}
+
+header h1 .bio {
+
+  font-family: 'Lilita One', cursive;
+}
+
+header h1 .scan{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+    padding-top: 10px;
+
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+  line-height: 50px;
+  background-color: #5FE52C;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+footer a{
+  margin: 30px;
+  font-size: 20px;
+  color : black;
+
+}
