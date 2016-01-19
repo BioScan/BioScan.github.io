@@ -12,7 +12,7 @@ img {
   border: 1px solid black;
   margin-top: 90px;
   margin-bottom: 20px;
-  width: 200px;
+  width: 150px;
   height: auto;
   text-align: center;
 }
@@ -25,8 +25,8 @@ img {
 .validation i {
   display: inline-block;
   color: white;
-  font-size: 50px;
-  margin-right: 50px;
+  font-size: 30px;
+  margin-right: 10px;
   vertical-align: middle;
 }
 .validation h1 {
