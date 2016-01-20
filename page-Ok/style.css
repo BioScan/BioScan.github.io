@@ -24,6 +24,7 @@ img {
 }
 .validation i {
   display: inline;
+  float:left;
   color: white;
   font-size: 30px;
   margin-right: 5px;
@@ -89,15 +90,15 @@ header h1 .scan{
 footer {
   width: 100%;
   text-align: center;
-  line-height: 50px;
+  line-height: 30px;
   background-color: #5FE52C;
   position: absolute;
   bottom: 0;
   left: 0;
 }
 footer a{
-  margin: 30px;
-  font-size: 20px;
+  margin: 20px;
+  font-size: 15px;
   color : black;
 
 }
