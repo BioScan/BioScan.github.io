@@ -24,18 +24,19 @@ img {
   padding-bottom: 10px;
 }
 .validation i {
-  display: inline-block;
+  display: inline;
   color: white;
-  font-size: 50px;
-  margin-right: 50px;
+  font-size: 30px;
+  margin-left: 15px;
+  margin-right: 15px;
   vertical-align: middle;
 }
 .validation h1 {
-  display: inline-block;
+  display: inline;
   color: white;
   vertical-align: middle;
   margin: auto;
-  font-size: 30px;
+  font-size: 20px;
 }
 .description {
   text-align: center;
@@ -50,6 +51,7 @@ img {
   background-color: black;
   border: 1px solid #5FE52C;
   padding:10px;
+  margin: 20px;
 }
 
 header {
@@ -99,15 +101,15 @@ header h1 .scan{
 footer {
   width: 100%;
   text-align: center;
-  line-height: 50px;
+  line-height: 30px;
   background-color: #5FE52C;
-  position: absolute;
-  bottom: 0;
+  position: relative;
+  top: 10px;
   left: 0;
 }
 footer a{
-  margin: 30px;
-  font-size: 20px;
+  margin: 20px;
+  font-size: 15px;
   color : black;
 
 }
