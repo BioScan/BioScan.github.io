@@ -23,14 +23,14 @@ img {
   padding-bottom: 10px;
 }
 .validation i {
-  display: inline-block;
+  display: inline;
   color: white;
   font-size: 30px;
   margin-right: 10px;
   vertical-align: middle;
 }
 .validation h1 {
-  display: inline-block;
+  display: inline;
   color: white;
   vertical-align: middle;
   margin: auto;
