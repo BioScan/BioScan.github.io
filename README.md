@@ -13,6 +13,8 @@ Trello : https://trello.com/b/tUDXhXaD/projet-bioscan
 
 Framapad : https://bimestriel.framapad.org/p/JOFyBhQVOM
 
+Business plan : https://github.com/BioScan/BioScan.github.io/blob/master/Business_Plan_du_Projet_BioScan.pdf
+
 
 http://BioScan.github.io/page-Ok
 
